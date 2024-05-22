@@ -21,7 +21,7 @@ pip install -r requirements.txt
 - opt.py: Compressing OPTfamily using SEPTQ algorithm 
 - llama.py: Compressing llama family using SEPTQ algorithm
 - datautils.py：Load dataset
-- gptq.py ：Extend the GPTQ algorithm to the SEPTQ algorithm
+- septq.py ：Extend the GPTQ algorithm to the SEPTQ algorithm
 - modelutils.py: Initialize the model
 - quant.py: Calculate quantization parameters
 
